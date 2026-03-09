@@ -19,7 +19,7 @@ connectDatabase();
 
 // Middleware
 app.use(cors({
-    origin: 'http://localhost:3000',
+    origin: ['http://localhost:3000', 'https://hall-management-ten.vercel.app'],
     credentials: true
 }));
 
