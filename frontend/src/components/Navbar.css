@@ -1,0 +1,47 @@
+.navbar {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-dark) 100%);
+    color: white;
+    padding: 16px 0;
+    box-shadow: var(--shadow-lg);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-brand {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-brand h2 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.navbar-menu {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.navbar-user {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.navbar .btn-outline {
+    border-color: white;
+    color: white;
+}
+
+.navbar .btn-outline:hover {
+    background-color: white;
+    color: var(--primary-color);
+}
