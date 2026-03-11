@@ -3,8 +3,8 @@
 🌐 **Live Demo**: [https://hall-management-ten.vercel.app](https://hall-management-ten.vercel.app)
 
 **Deployed Services:**
-- Frontend: [https://hall-management-ten.vercel.app](https://hall-management-ten.vercel.app)
-- Backend API: [https://hall-backend-ppr6.onrender.com](https://hall-backend-ppr6.onrender.com)
+- Frontend(Vercel): [https://hall-management-ten.vercel.app](https://hall-management-ten.vercel.app)
+- Backend API(Render): [https://hall-backend-ppr6.onrender.com](https://hall-backend-ppr6.onrender.com)
 - Database: MongoDB Atlas
 
 A comprehensive MERN stack web application for automating exam hall allocation and seating arrangements in colleges.
